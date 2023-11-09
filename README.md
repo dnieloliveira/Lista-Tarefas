@@ -3,8 +3,10 @@ Lista de Tarefas basica programada em JS
 Lista de tarefas para o dia-a-dia. O intuito do projeto é estritamente academico.
 
 Como usar: para cadastrar uma nova tarefa basta digitar oque deseja ser feito e clicar em cadastrar para remover o iten da lista basta clicar em cima do mesmo.
+
 Pré-requisitos: ter um javascript ativado no seu navegador
-Autor: Daniel Freitas de Oliveira
+
+Autor: Daniel Freitas de Oliveira 
 
 
 
